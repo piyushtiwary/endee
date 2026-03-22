@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 import uuid
 import os
 
-import tools  # your chunking file
+import tools  
 
 
 # -----------------------------
