@@ -30,3 +30,7 @@ frontend/*
 
 # DS Store
 .DS_Store
+
+#rag_app files
+rag_app/venv
+rag_app/.env
